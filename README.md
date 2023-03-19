@@ -24,6 +24,4 @@
   <img src="https://user-images.githubusercontent.com/59824729/197011873-d0bdabfa-d318-4312-9c94-9398d979f709.png" alt="badge" width="100" height="100">
 </p> 
   
-<p align = 'center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepthiSudharsan&show_icons=true&theme=dracula">
-</p>
+
